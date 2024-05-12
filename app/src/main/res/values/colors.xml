@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple">#673AB7</color>
+    <color name="PrimaryLight">#C0E895</color>
+    <color name="PrimaryDark">#096a2e</color>
+    <color name="grey">#434543</color>
+    <color name="low_priority_color">#C0E895</color>
+    <color name="medium_priority_color">#FF9800</color>
+    <color name="high_priority_color">#EC273F</color>
 </resources>
